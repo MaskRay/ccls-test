@@ -1,0 +1,14 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-DA",
+            "-c",
+            "-o",
+            "a",
+            "a.cc"
+        ],
+        "directory": "dir",
+        "file": "a.cc"
+    }
+]
