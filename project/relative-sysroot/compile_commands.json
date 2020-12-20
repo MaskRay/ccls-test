@@ -2,14 +2,14 @@
     {
         "arguments": [
             "g++",
-            "--sysroot=basic_linux_tree",
+            "--sysroot=dir/basic_linux_tree",
             "-DA",
             "-c",
             "-o",
             "a",
             "a.cc"
         ],
-        "directory": "/tmp/d/dir",
+        "directory": ".",
         "file": "a.cc"
     }
 ]
